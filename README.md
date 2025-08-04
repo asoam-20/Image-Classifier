@@ -2,13 +2,13 @@
 An Image Classifier Model that Classifes Images with Ease. It has been made using HTML , Python and Flask. It has a Vast Dataset and can recognise a large vareity of Images with Ease. 
 
 ## Input - Output Screenshot Below 
-![Input Output Screenshot](https://github.com/ria-2511/Image-CLassifier-flask/blob/main/71064959-3c34be80-213e-11ea-8e13-91800ca2d345.gif)
+![project gif](https://github.com/user-attachments/assets/d84548ae-cfdb-4b8d-a5fd-215c6278c319)
 
 ## Local Installation
 It's easy to install and run it on your computer.
 
 ### 1. First, clone the repo
-$ git clone https://github.com/ria-2511/Image-CLassifier-flask
+$ git clone [https://github.com/ria-2511/Image-CLassifier-flask](https://github.com/asoam-20/Image-Classifier/tree/main)
 $ cd keras-flask-deploy-webapp
 
 ### 2. Install Python packages
